@@ -43,4 +43,4 @@ C · Python · Supabase · Vercel · HTML · CSS
 - **Cursus 42 Paris** : des projets concrets en C et en Python, réalisés selon la pédagogie en peer-to-peer de 42.
 
 ### Contact
-- 📧 [Mon Email](git@github.com:LMuny/LMuny.git)
+- 📧 [Mon Email](lmuny@proton.me)
